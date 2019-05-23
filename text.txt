@@ -1,3 +1,0 @@
-ほげほげ
-今日はGitとGithubとSourcetreeの勉強をしました。
-初コミットです。
